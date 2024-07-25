@@ -5,7 +5,7 @@ function Admissions() {
     <div className='flex flex-col flex-wrap'>
       <div className='flex items-center justify-center my-10'>
         <a
-          href='public/StandardForm.pdf'
+          href='/StandardForm.pdf'
           download='AdmissionForm.pdf'
           className='btn btn-accent'
         >
