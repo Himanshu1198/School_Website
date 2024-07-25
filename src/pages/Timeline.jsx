@@ -1,4 +1,4 @@
-import React from 'react'
+fimport React from 'react'
 import 'animate.css'
 
 function Timeline() {
@@ -22,7 +22,7 @@ function Timeline() {
           </div>
           <div className='timeline-start mb-10 md:text-end'>
             <time className='font-mono italic badge badge-info'>History</time>
-            <div className='text-lg font-black animate__animated animate__fadeInLeft'>
+            <div className='text-lg font-black animate__animated animate__fadeIn'>
               "Founded in 1985, Springdale Public School has been dedicated to
               providing quality education and holistic development to students.
             </div>
@@ -47,7 +47,7 @@ function Timeline() {
           </div>
           <div className='timeline-end mb-10'>
             <time className='font-mono italic badge badge-info'>Vision</time>
-            <div className='text-lg font-black animate__animated animate__fadeInRight'>
+            <div className='text-lg font-black animate__animated animate__fadeIn'>
               To create a learning environment that fosters academic excellence,
               critical thinking, and ethical values.
             </div>
@@ -72,7 +72,7 @@ function Timeline() {
           </div>
           <div className='timeline-start mb-10 md:text-end'>
             <time className='font-mono italic badge badge-info'>Mission</time>
-            <div className='text-lg font-black animate__animated animate__fadeInLeft'>
+            <div className='text-lg font-black animate__animated animate__fadeIn'>
               To empower students with the knowledge, skills, and values needed
               to thrive in a dynamic world.
             </div>
@@ -99,7 +99,7 @@ function Timeline() {
             <time className='font-mono italic badge badge-info'>
               Principal's Message
             </time>
-            <div className='text-lg font-black animate__animated animate__fadeInRight'>
+            <div className='text-lg font-black animate__animated animate__fadeIn'>
               At Springdale, we believe in nurturing the potential of every
               student and guiding them towards a successful future.
             </div>
@@ -126,7 +126,7 @@ function Timeline() {
             <time className='font-mono italic badge badge-info'>
               Infrastructure and Facilities
             </time>
-            <div className='text-lg font-black animate__animated animate__fadeInLeft'>
+            <div className='text-lg font-black animate__animated animate__fadeIn'>
               <ul>
                 <li>&#x2022; State-of-the-art science and computer labs</li>
                 <li>&#x2022; Spacious and well-equipped classrooms</li>
