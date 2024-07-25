@@ -19,7 +19,7 @@ function Introduction() {
             }}
           />
         </div>
-        <div className='flex text-xl lg:text-4xl tracking-wider text-wrap w-96 text-center items-center justify-center animate__animated animate__fadeInRight'>
+        <div className='flex text-xl lg:text-4xl tracking-wider text-wrap w-96 text-center items-center justify-center'>
           Welcome to Springdale Public School, where we nurture young minds for
           a brighter future.
         </div>
