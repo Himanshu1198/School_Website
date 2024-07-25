@@ -1,4 +1,4 @@
-fimport React from 'react'
+import React from 'react'
 import 'animate.css'
 
 function Timeline() {
